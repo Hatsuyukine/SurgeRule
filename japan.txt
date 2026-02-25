@@ -1,0 +1,4 @@
+DOMAIN-SUFFIX,annict.com
+DOMAIN-SUFFIX,dlsite.com
+DOMAIN-SUFFIX,booklog.jp
+DOMAIN-SUFFIX,anikore.jp
