@@ -1,1 +1,2 @@
 DOMAIN-SUFFIX,lzacg.cc
+DOMAIN-SUFFIX,sakurafile.com
